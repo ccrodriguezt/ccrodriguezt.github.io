@@ -1,0 +1,5 @@
+input:focus{
+	background: black;
+	height: 50px;
+	color: white;
+}

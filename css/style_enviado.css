@@ -1,0 +1,48 @@
+#contenido{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+/*ETIQUETAS*/
+
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url(../img/patas2.jpg);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+h1{
+	font-size: 100px
+}
+
+.button
+	{
+		display: inline-block;
+		padding: 20px 40px 20px 40px;
+		background: #24DF2E;
+		letter-spacing: 0.20em;
+		text-decoration: none;
+		text-transform: uppercase;
+		margin: 0 100px 0 800px;
+		font-weight: 400;
+		font-size: 20px;
+		color: white;
+	}
+
+
+.boton:hover {
+	cursor: pointer;
+
+}
+
+footer{
+	width: 1000px;
+	height: 30px;
+	margin: 20px 100px 0px 475px;
+	text-align: center;
+}
